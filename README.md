@@ -1,4 +1,4 @@
-# module-lab-10-assignment
+# module-lab-11-assignment
 
 EXP NO:21 C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
 Aim:
